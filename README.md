@@ -314,21 +314,18 @@ updatedAt AUTO              timestamps: true
 
 ---
 
-## Push to GitHub
+## Part of a three-project series
 
-```bash
-cd project3
-git init
-git add .
-git commit -m "feat: DecodeLabs Project 3 - Database Integration with MongoDB + Mongoose"
-git remote add origin https://github.com/connectabdullahdev/decodelabs-project3.git
-git branch -M main
-git push -u origin main
-```
-
-**Note:** `.env` is in `.gitignore` — your MongoDB password will NOT be uploaded.
+| Project | Layer | Repository |
+| --- | --- | --- |
+| 1 | Interface: responsive frontend | [Decodelabs-1st-project](https://github.com/connectabdullahdev/Decodelabs-1st-project) |
+| 2 | Engine: REST API with Node.js and Express | [Decodelabs-2nd-project](https://github.com/connectabdullahdev/Decodelabs-2nd-project) |
+| 3 | Memory: MongoDB Atlas with Mongoose | **this repo** |
 
 ---
 
-**DecodeLabs | Full Stack Development | Project 3 | Batch 2026**
-**Muhammad Abdullah — connect.abdullah.dev@gmail.com**
+<div align="center">
+
+Built by **Muhammad Abdullah** during the DecodeLabs full stack internship (Batch 2026) · [LinkedIn](https://www.linkedin.com/in/connectabdullahdev) · [GitHub](https://github.com/connectabdullahdev)
+
+</div>
